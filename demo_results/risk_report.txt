@@ -1,0 +1,258 @@
+================================================================================
+BLOCKCHAIN MONEY LAUNDERING RISK ASSESSMENT REPORT
+================================================================================
+
+Total wallets analyzed: 353
+Known illicit wallets: 31
+Detected patterns: 23
+
+Risk Level Distribution:
+  CRITICAL: 0 wallets
+  HIGH: 3 wallets
+  MEDIUM: 17 wallets
+  LOW: 86 wallets
+  MINIMAL: 247 wallets
+
+================================================================================
+TOP 20 MOST SUSPICIOUS WALLETS
+================================================================================
+
+1. Wallet: 0xcfd2cbffbcf3de3dfebd413db520b8e6a45c5d9e
+   Overall Suspicion Score: 63.80/100
+   Risk Level: HIGH
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 95.53
+     - Structural Anomaly: 96.93
+
+2. Wallet: 0xcf61f4879f9b7be59abbc8c9cfaf50f0cfe17cdc
+   Overall Suspicion Score: 60.41/100
+   Risk Level: HIGH
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 92.15
+     - Structural Anomaly: 69.81
+
+3. Wallet: 0x1ce42b9ad49dd936dedc277fd0b52dbba48d031f
+   Overall Suspicion Score: 60.41/100
+   Risk Level: HIGH
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 92.15
+     - Structural Anomaly: 69.81
+
+4. Wallet: 0xfbb0c04ecabc62fc995dfa271ba7b6dbbf6e9eb6
+   Overall Suspicion Score: 58.71/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 88.15
+     - Structural Anomaly: 60.77
+
+5. Wallet: 0x7edd3ff80e9e14a3530df9dce6c2ac1e1e416d03
+   Overall Suspicion Score: 58.71/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 88.15
+     - Structural Anomaly: 60.77
+
+6. Wallet: 0xcffedba78ab8cdd04cf02b22de58af56f2f90d48
+   Overall Suspicion Score: 53.07/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 19.55
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 49.93
+     - Structural Anomaly: 12.18
+
+7. Wallet: 0x2a4325b5bceeedefd3fbce9db654aa088bed2fd5
+   Overall Suspicion Score: 52.95/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 19.41
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 49.93
+     - Structural Anomaly: 12.18
+
+8. Wallet: 0xbda0ada3bbe6d56c69fea7fa3196e9eb4ba4b7b2
+   Overall Suspicion Score: 52.90/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 72.70
+     - Structural Anomaly: 33.64
+
+9. Wallet: 0x610f87bcf9bcbe04a447facd08d26dee7385e83d
+   Overall Suspicion Score: 52.65/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 71.43
+     - Structural Anomaly: 33.64
+
+10. Wallet: 0xf09cd63c621b0ff70df0018cca0c0cac8f8e5a5f
+   Overall Suspicion Score: 51.75/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 71.43
+     - Structural Anomaly: 24.60
+
+11. Wallet: 0xfaaf24fcefc0243fbd79ee94d47dceae9593bcab
+   Overall Suspicion Score: 50.01/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 19.01
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 35.71
+     - Structural Anomaly: 12.18
+
+12. Wallet: 0xeb7fc11bd66dc79bcbdeed18e5d9d81edfa9230b
+   Overall Suspicion Score: 49.85/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 18.97
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 34.95
+     - Structural Anomaly: 12.18
+
+13. Wallet: 0xb1c3d73fee07fef831ee1c78ad0ca59d6c03d070
+   Overall Suspicion Score: 48.46/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 59.52
+     - Structural Anomaly: 15.51
+
+14. Wallet: 0xfe95b393783ec5d6c0ffb58f509f83fbd10c11f2
+   Overall Suspicion Score: 47.65/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 55.47
+     - Structural Anomaly: 15.51
+
+15. Wallet: 0x44cdb7a2afaedd212be2f076ef1f30f85bef1301
+   Overall Suspicion Score: 47.65/100
+   Risk Level: MEDIUM
+   Is Known Illicit: True
+   Distance to Illicit Wallet: 1 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 0.00
+     - Illicit Proximity: 100.00
+     - Pattern Involvement: 55.47
+     - Structural Anomaly: 15.51
+
+16. Wallet: 0xbc6f2dfe76ef644fc4bcd2abb1faad21f52ea2ef
+   Overall Suspicion Score: 47.42/100
+   Risk Level: MEDIUM
+   Is Known Illicit: False
+   Distance to Illicit Wallet: 2 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 19.05
+     - Illicit Proximity: 84.08
+     - Pattern Involvement: 49.93
+     - Structural Anomaly: 12.18
+
+17. Wallet: 0xcc7de4cb2cdab67e2cb83cbc5dcc3a0ebdd8f2f8
+   Overall Suspicion Score: 47.34/100
+   Risk Level: MEDIUM
+   Is Known Illicit: False
+   Distance to Illicit Wallet: 2 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 19.47
+     - Illicit Proximity: 84.08
+     - Pattern Involvement: 49.93
+     - Structural Anomaly: 12.18
+
+18. Wallet: 0xd2b5c0feac3afce4c503c4619d0ff8aac9fc3830
+   Overall Suspicion Score: 44.44/100
+   Risk Level: MEDIUM
+   Is Known Illicit: False
+   Distance to Illicit Wallet: 2 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 19.01
+     - Illicit Proximity: 84.08
+     - Pattern Involvement: 35.71
+     - Structural Anomaly: 12.18
+
+19. Wallet: 0xd5e9c7cbf9ad5c52bbf87c9aafbe8e2a1cadbbc0
+   Overall Suspicion Score: 44.28/100
+   Risk Level: MEDIUM
+   Is Known Illicit: False
+   Distance to Illicit Wallet: 2 hops
+   Patterns Involved: 1
+   Score Components:
+     - Centrality: 19.15
+     - Illicit Proximity: 84.08
+     - Pattern Involvement: 34.95
+     - Structural Anomaly: 12.18
+
+20. Wallet: 0xc031bb892f567c7d2f1eeeda9afafccb30de973f
+   Overall Suspicion Score: 43.13/100
+   Risk Level: MEDIUM
+   Is Known Illicit: False
+   Patterns Involved: 2
+   Score Components:
+     - Centrality: 40.08
+     - Illicit Proximity: 0.00
+     - Pattern Involvement: 95.53
+     - Structural Anomaly: 100.00
+
